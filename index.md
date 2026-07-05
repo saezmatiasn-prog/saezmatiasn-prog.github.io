@@ -39,9 +39,9 @@ Decidimos frenar la discusión abierta y aplicar un proceso más estructurado:
 
 ## Evidencia de control de versiones
 
-- Repositorio: [saezmatiasn-prog.github.io](https://github.com/saezmatiasn-prog/saezmatiasn-prog.github.io)
-- Commit inicial (creación del blog): [ver commit](https://github.com/saezmatiasn-prog/saezmatiasn-prog.github.io/commit/ce4eab498f68a5d59330322db3ea7c0e3621de24)
-- Commit de mejora visual (tema oscuro): [ver commit](https://github.com/saezmatiasn-prog/saezmatiasn-prog.github.io/commit/030ac1a053ca3fc41cd8449c2b0ba1cc16d40362)
+- Repositorio : [saezmatiasn-prog.github.io](https://github.com/saezmatiasn-prog/saezmatiasn-prog.github.io)
+- Commit inicial (creación del blog) : [ver commit](https://github.com/saezmatiasn-prog/saezmatiasn-prog.github.io/commit/ce4eab498f68a5d59330322db3ea7c0e3621de24)
+- Commit de mejora visual (tema oscuro) : [ver commit](https://github.com/saezmatiasn-prog/saezmatiasn-prog.github.io/commit/030ac1a053ca3fc41cd8449c2b0ba1cc16d40362)
 
 ## Reflexión sobre feedback radicalmente sincero
 
